@@ -14,7 +14,6 @@ pip install pyqt5==5.9.2
 
 ***********************************************
 
-``use ``
 
 * Important: pyqt5 version must only be 5.9.2 
 
@@ -24,7 +23,8 @@ pip install pyqt5==5.9.2
 
 
 
-* After installed all the prerequired packages, you need to cd to the directory which contians the file main.py
+`IMPORTANT` 
+After installed all the prerequired packages, you need to cd to the directory which contians the file main.py
 
 Then the final step is easy, use the below command to activate the app.
 
