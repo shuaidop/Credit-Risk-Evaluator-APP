@@ -28,9 +28,11 @@ Important: pyqt5 version must only be 5.9.2
 
 
 `IMPORTANT` \
-<font color="red">After installed all the prerequired packages, you need to cd to the <strong>directory</strong> which contians the file ``main.py``<\font>
+ ```diff
+- After installed all the prerequired packages, you need to cd to the <strong>directory</strong> which contians the file ``main.py``
+```
 
- 
+
 Then the final step is easy, use the below command to activate the app.
 
 ```bash
