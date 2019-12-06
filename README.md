@@ -29,7 +29,7 @@ Important: pyqt5 version must only be 5.9.2
 
 
 
-`IMPORTANT` 
+`IMPORTANT`\ 
 After installed all the prerequired packages, you need to cd to the <strong>directory</strong> which contians the file ``main.py``
 
 
