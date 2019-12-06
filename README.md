@@ -26,7 +26,7 @@ pip install pyqt5==5.9.2
 
 
 `IMPORTANT` \
-After installed all the prerequired packages, you need to cd to the <strong>``main`` directory</strong> which contians the file ``main.py``
+After installed all the prerequired packages, you need to cd to the <strong>directory</strong> ``main`` which contians the file ``main.py``
 
 
 
