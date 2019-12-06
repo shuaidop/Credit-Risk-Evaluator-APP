@@ -39,6 +39,6 @@ python3 main.py
 ## App overview
 
 The main interface
-![main view](/RM_img/overview.png)
+![main view](https://github.com/span11UR/Creadit-Risk-Evaluator-APP/blob/master/RM_image/overview.png)
 
 
