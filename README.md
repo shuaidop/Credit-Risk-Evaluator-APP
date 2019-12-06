@@ -12,13 +12,22 @@ you can install by using
 
 
 ***********************************************
-* Important: pyqt5 version must only be 5.9.2 *
+
+
+* Important: pyqt5 version must only be 5.9.2 
+
+
+
 ***********************************************
 
 
 
-After installed all the prerequired packages, you need to cd to the directory which contians the file main.py (the directory name is 'finalproject')
+* Impoartant
+After installed all the prerequired packages, you need to cd to the directory which contians the file main.py
 
-Then the final step is easy, use 'python main.py' to activate the app and enjoy !!!!!!!!!
+Then the final step is easy, use the below command to activate the app.
 
+```bash
+python3 main.py
+```
 
