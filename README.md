@@ -38,5 +38,6 @@ python3 main.py
 
 ## App overview
 
+![alt text](https://raw.githubusercontent.com/span11UR/Creadit-Risk-Evaluator-APP/RM_img/overview.jpg)
 
 
