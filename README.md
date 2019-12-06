@@ -1,5 +1,7 @@
 # Creadit-Risk-Evaluator-APP
 
+A creadit risk evaluator app build based on Python
+
 
 ## Requirements
 
@@ -11,17 +13,13 @@ especially Pyqt5, because all the development is based on that
 
 
 
-
+`IMPORTANT` \
+pyqt5 version must only be 5.9.2 
 
 you can install by using 
 ```bash
 pip install pyqt5==5.9.2
 ```
-
-`IMPORTANT` \
-Important: pyqt5 version must only be 5.9.2 
-
-
 
 ***********************************************
 
