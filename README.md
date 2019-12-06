@@ -41,4 +41,5 @@ python3 main.py
 The main interface
 ![main view](https://github.com/span11UR/Creadit-Risk-Evaluator-APP/blob/master/RM_image/overview.png)
 
-
+The example usage
+![usage](https://github.com/span11UR/Creadit-Risk-Evaluator-APP/blob/master/RM_image/usage.png)
