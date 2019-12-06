@@ -21,10 +21,8 @@ you can install by using
 pip install pyqt5==5.9.2
 ```
 
-***********************************************
 
-
-
+## Run the App
 
 
 `IMPORTANT` \
@@ -37,4 +35,8 @@ Then the final step is easy, use the below command to activate the app.
 ```bash
 python3 main.py
 ```
-***********************************************
+
+## App overview
+
+
+
