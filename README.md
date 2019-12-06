@@ -1,21 +1,25 @@
 # Creadit-Risk-Evaluator-APP
 
 
+## Requirements
+
 User need to make sure that these packages are preinstalled in the enviroment:
 
-‘Pyqt5’, ‘numpy’, ‘pandas’,‘pickle’ , ’os’, 'webbrowser'  and ‘sys'
+``Pyqt5``, ``numpy``, ``pandas``,``pickle`` , and ``sklearn``
 
 especially Pyqt5, because all the development is based on that
+
+
+
+
 
 you can install by using 
 ```bash
 pip install pyqt5==5.9.2
 ```
 
-***********************************************
-
-
-* Important: pyqt5 version must only be 5.9.2 
+`IMPORTANT` \
+Important: pyqt5 version must only be 5.9.2 
 
 
 
@@ -32,4 +36,4 @@ Then the final step is easy, use the below command to activate the app.
 ```bash
 python3 main.py
 ```
-
+***********************************************
