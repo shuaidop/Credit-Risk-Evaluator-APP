@@ -20,7 +20,7 @@ you can install by using
 ```bash
 pip install pyqt5==5.9.2
 ```
-
+Or you could install the package using ``requirements.txt``
 
 ## Run the App
 
@@ -38,6 +38,7 @@ python3 main.py
 
 ## App overview
 
-![alt text](https://raw.githubusercontent.com/span11UR/Creadit-Risk-Evaluator-APP/RM_img/overview.jpg)
+The main interface
+![main view](https://raw.githubusercontent.com/span11UR/Creadit-Risk-Evaluator-APP/RM_img/overview.jpg)
 
 
