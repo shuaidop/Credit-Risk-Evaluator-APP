@@ -1,10 +1,10 @@
-# Creadit-Risk-Evaluator-APP
-A creadit risk evaluator app build based on Python
+# Credit-Risk-Evaluator-APP
+A credit risk evaluator app build based on Python
 
 
 ## Requirements
 
-User need to make sure that these packages are preinstalled in the enviroment:
+User needs to make sure that these packages are preinstalled in the environment:
 
 ``Pyqt5``, ``numpy``, ``pandas``,``pickle`` , and ``sklearn``
 
@@ -25,7 +25,7 @@ Or you could install the package using ``requirements.txt``
 
 
 `IMPORTANT` \
-After installed all the prerequired packages, you need to cd to the <strong>directory</strong> ``main`` which contians the file ``main.py``
+After installing all the prerequired packages, you need to cd to the <strong>directory</strong> ``main`` which contains the file ``main.py``
 
 
 
