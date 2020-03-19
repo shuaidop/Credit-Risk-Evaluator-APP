@@ -1,5 +1,4 @@
 # Creadit-Risk-Evaluator-APP
-
 A creadit risk evaluator app build based on Python
 
 
